@@ -20,14 +20,11 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/api/Farm")
 public class FincaWeb {
 
-<<<<<<< HEAD
     @GetMapping("/reto3")
     public String saludad() {
         return "Hola mundo, prueba reto 3";
     }
 
-=======
->>>>>>> 008d51bb633db8d7a6933dc669e49c314ce2abf8
     @Autowired
     private ServiciosFinca servicio;
 

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 //1. Modelo
 //2. Interface
 //3. Repositorio
@@ -11,10 +11,6 @@
 package Reto3;
 
 
-=======
-package Reto3;
-
->>>>>>> 008d51bb633db8d7a6933dc669e49c314ce2abf8
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.domain.EntityScan;
